@@ -1,0 +1,6 @@
+172.17.0.1 - - [22/Dec/2020:16:16:39 +0000] "GET / HTTP/1.1" 200 108010 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+172.17.0.1 - - [22/Dec/2020:16:16:40 +0000] "GET /favicon.ico HTTP/1.1" 200 107853 "http://localhost:8888/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+172.17.0.1 - - [22/Dec/2020:16:23:18 +0000] "GET / HTTP/1.1" 200 108097 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+172.17.0.1 - - [22/Dec/2020:16:23:18 +0000] "GET /favicon.ico HTTP/1.1" 200 108018 "http://localhost:8888/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+172.17.0.1 - - [22/Dec/2020:16:23:18 +0000] "GET / HTTP/1.1" 200 108089 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
+172.17.0.1 - - [22/Dec/2020:16:23:19 +0000] "GET /favicon.ico HTTP/1.1" 200 108026 "http://localhost:8888/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"
