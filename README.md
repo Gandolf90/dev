@@ -30,9 +30,9 @@ By default the file will contain the following
 
 ```
 MYSQL_ROOT_PASSWORD=root
-MYSQL_DATABASE=atea_db
-MYSQL_USER=atea
-MYSQL_PASSWORD=atea
+MYSQL_DATABASE=db
+MYSQL_USER=db
+MYSQL_PASSWORD=db
 REDIS_PASS=redis
 ```
 Docker Compose will automatically replace things like `${MYSQL_USER}` in the `docker-compose.yml` file with whatever corresponding variables it finds defined in `.env`
