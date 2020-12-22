@@ -26,7 +26,7 @@ mysql:
   dockerfile: mysql/Dockerfile
   container_name: dev_mysql
   volumes:
-      - ../mysql:/var/lib/mysql
+      - ./mysql/data:/var/lib/mysql
       - ./mysql/log:/var/log/mysql
       - ./mysql/conf:/etc/mysql/conf.d
       - ./mysql/create-databases.sql:/docker-entrypoint-initdb.d/1-data.sql

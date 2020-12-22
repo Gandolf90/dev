@@ -7,5 +7,5 @@
 www/logs/access.log
 www/logs/error.log
 
-mysql
+mysql/data
 portainer
