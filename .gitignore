@@ -1,0 +1,10 @@
+.env
+
+/mysql/log/mysql_error.log
+/mysql/log/mysql_slow.log
+/mysql/log/mysql.log
+
+/www/logs/access.log
+/www/logs/error.log
+
+/portainer/*
