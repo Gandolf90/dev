@@ -65,6 +65,9 @@ class Application extends BaseApplication
         }
 
         // Load more plugins here
+
+        // $this->addPlugin('AdminLTE');
+        $this->addPlugin('AdminLTE', ['path'=>ROOT . DS . 'vendor' . DS . 'maiconpinto'. DS . 'cakephp-adminlte-theme' . DS]);
     }
 
     /**
